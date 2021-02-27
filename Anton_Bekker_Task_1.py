@@ -1,4 +1,5 @@
 def num_translate(eng):
+    """Translation of numbers from one to ten from english to russian"""
     translate = {'zero': 'ноль',
                  'one': 'один',
                  'two': 'два',
